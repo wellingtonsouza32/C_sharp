@@ -1,0 +1,7 @@
+C:\Users\wellington.souza\source\repos\ByteBank\03_bytebank\bin\Debug\03_bytebank.exe.config
+C:\Users\wellington.souza\source\repos\ByteBank\03_bytebank\bin\Debug\03_bytebank.exe
+C:\Users\wellington.souza\source\repos\ByteBank\03_bytebank\bin\Debug\03_bytebank.pdb
+C:\Users\wellington.souza\source\repos\ByteBank\03_bytebank\obj\Debug\03_bytebank.csproj.AssemblyReference.cache
+C:\Users\wellington.souza\source\repos\ByteBank\03_bytebank\obj\Debug\03_bytebank.csproj.CoreCompileInputs.cache
+C:\Users\wellington.souza\source\repos\ByteBank\03_bytebank\obj\Debug\03_bytebank.exe
+C:\Users\wellington.souza\source\repos\ByteBank\03_bytebank\obj\Debug\03_bytebank.pdb
